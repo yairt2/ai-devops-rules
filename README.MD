@@ -246,7 +246,7 @@ MIT License - Use it, adapt it, make it yours.
 
 ## Author
 
-**Yair Tal-Or** | DevOps Engineer at Check Point
+**Yair Tal-Or** | DevOps Engineer
 
 Working shoulder to shoulder with AI daily, learning where it excels and where it needs human guidance.
 
