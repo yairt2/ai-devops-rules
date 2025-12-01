@@ -8,7 +8,7 @@
 
 Born from a meta-experiment where AI peer-reviewed its own rules—and a human caught what three AI models missed. 
 
-**Read the full story:** [I Work With AI Every Day. That's Why I Missed What It Couldn't See.](#) [https://medium.com/@yair.talor/i-work-with-ai-every-day-thats-why-i-missed-what-it-couldn-t-see-e5a684bfe324](Medium article)
+**Read the full story:** [I Work With AI Every Day. That's Why I Missed What It Couldn't See.](https://medium.com/@yair.talor/i-work-with-ai-every-day-thats-why-i-missed-what-it-couldn-t-see-e5a684bfe324)
 
 ---
 
