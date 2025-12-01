@@ -232,7 +232,7 @@ We're still learning what AI can't see without being told.
 
 ## The Story Behind This
 
-Read the full article: [I Work With AI Every Day. That's Why I Missed What It Couldn't See.](#)
+Read the full article: [I Work With AI Every Day. That's Why I Missed What It Couldn't See.](https://medium.com/@yair.talor/i-work-with-ai-every-day-thats-why-i-missed-what-it-couldn-t-see-e5a684bfe324)
 
 **TL;DR:** We used AI to build AI rules. It worked brilliantly for technical stuff. Then a human teammate caught what three AI models missed: "Don't push to main."
 
